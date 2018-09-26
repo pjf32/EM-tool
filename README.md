@@ -25,7 +25,7 @@ To use, open your SEM image in ImageJ. Click the macro through the menu.
 
 2. If need to use both functions 
 Add the text in SEM_metadata_measurement.txt to the end of \fiji-win64\Fiji.app\macros\StartupMacros.fiji.ijm
-Then restart ImageJ
-Use the shortcut 'p' to run 'FEI_SEM_metadata marco'
-Use the shortcut 'n' to run 'Annotated Measurements'
+Then restart ImageJ  
+Use the shortcut 'p' to run 'FEI_SEM_metadata marco'  
+Use the shortcut 'n' to run 'Annotated Measurements'  
 Please note the shortcut keys may conflit if you have already assign to the other functions.
