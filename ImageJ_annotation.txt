@@ -1,3 +1,8 @@
+// Annotate the measured length of a line tool in ImageJ
+// Author: Nick McDougall and Zhou XU
+// @ Monash Centre for Electron Microscopy
+// created on 2018 Aug 30
+
 	fontSize = 24;
 	run("Measure");
 	label = getResult("Length", nResults-1);
