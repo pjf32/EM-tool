@@ -6,6 +6,9 @@
 ## - JEOL SEM scale
   The macro JOEL SEM scale set image scale based on pixel size store in the .txt file associated with SEM image.
 
+## - Hitachi SEM scale
+  The macro Hitachi SEM scale set image scale based on pixel size store in the .txt file associated with SEM image.
+  
 ## - Image annotation
   Annotate measured dimensions in a cabibrated image. 
 
